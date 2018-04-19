@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NextBook</string>
+    <string name="action_settings">Settings</string>
+    <string name="introtext">Search author\'s name and find the next book!</string>
+</resources>
